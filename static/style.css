@@ -6,5 +6,5 @@
   background-size: cover;
 
   background-image: url("/background_image.jpg");
-  min-height: 100%;
+  min-height: 500px;
 }
