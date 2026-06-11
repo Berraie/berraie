@@ -5,6 +5,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 
-  background-image: url("/static/background_image.jpg");
+  background-image: url("/background_image.jpg");
   min-height: 100%;
 }
